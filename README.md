@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**kevintaiyo/kevintaiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Seja bem Vindo Ao meu Perfil 👋
 
 Here are some ideas to get you started:
 
