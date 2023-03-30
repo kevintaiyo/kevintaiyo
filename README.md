@@ -1,15 +1,21 @@
 ### Seja bem Vindo Ao meu Perfil! 👋
-### Vivendo e Aprendendo..
+
  
  Atualmente estou estudando:
-- Java <img width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 	
-- Javascript <img width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
-- HTML <img width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />        
-- CSS <img width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-- DART <img width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-- SQL <img width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-           
+ 
+ <div class="imgs-tecnologias"> 
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 	
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+ <div/> 
+ 
+ 
+![dog-work](https://user-images.githubusercontent.com/119669310/228839894-3e452821-b42d-4c2e-9308-907b539ae55a.gif)
 
-   
-  
+
+### Vivendo e Aprendendo...
 ### Estou ingressando no mundo da programação
